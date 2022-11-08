@@ -45,7 +45,7 @@ fn main() {
 
 const HISTORY_BUFFER: &str = "7LLvRhMs73FqcLkA8jvEE1AM2mYZXTmqfUv8GAEurymx";
 const SOLANA_FEED_PID: &str = "GWLjdS5qvUUwTt8HHVTHmJ8F4ZmNYRvdNoiL8gBgc5H7";
-const KEYPAIR_PATH: &str = "/home/anonymous/.config/solana/id.json";
+const KEYPAIR_PATH: &str = "ENTER SOLANA ID PATH HERE";
 const FEED_VEC: &str = "9xHLTg2uoRUhADhb6c6VJfoPi7kohorhSQoGn5NFS4xo";
 
 mod instructions {
